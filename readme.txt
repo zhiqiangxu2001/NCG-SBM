@@ -1,7 +1,7 @@
 Author: Zhiqiang Xu, 10/2014
 Email: zxu1@e.ntu.edu.sg
 
-This package contains the MATLAB implementation of the NCG-VB algorithm for SBM inference, proposed in the paper "A Fast Inference Algorithm for Stochastic Blockmodel" (Xu et al., 2012).
+This package contains the MATLAB implementation of the NCG-VB algorithm for SBM inference, proposed in the paper "A Fast Inference Algorithm for Stochastic Blockmodel" (Xu et al., 2014).
 
 Note that this code is only applicable to undirected and unweighted graphs. 
 
